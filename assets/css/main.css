@@ -2983,3 +2983,5 @@ input, select, textarea {
 						}
 
 	}
+/* Chinese font test */
+.cn-test { color:#fff; font-size:1.1em; letter-spacing:0.5px; }
